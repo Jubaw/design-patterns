@@ -2,9 +2,11 @@ package jubaw.creationalDP.singletonDP;
 
 public class Runner {
     public static void main(String[] args) {
-        SingletonObject singletonObject1 = new SingletonObject();
-        SingletonObject singletonObject2 = new SingletonObject();
-        System.out.println(singletonObject1.equals(singletonObject2));
+//        SingletonObject singletonObject1 = new SingletonObject();
+//        SingletonObject singletonObject2 = new SingletonObject();
+//        System.out.println(singletonObject1.equals(singletonObject2));
+
+
         //References are different
         System.out.println("=====================================");
 
