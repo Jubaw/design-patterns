@@ -1,4 +1,4 @@
-package jubaw.creationalDP.structuralDP.decoratorDP;
+package jubaw.structuralDP.decoratorDP;
 
 public class PhoneDecorator implements Phone{
 

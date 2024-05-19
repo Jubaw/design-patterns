@@ -1,4 +1,4 @@
-package jubaw.creationalDP.structuralDP.decoratorDP;
+package jubaw.structuralDP.decoratorDP;
 
 public class Iphone11ProMax extends Iphone11Pro{
     public Iphone11ProMax(Iphone basicPhone) {

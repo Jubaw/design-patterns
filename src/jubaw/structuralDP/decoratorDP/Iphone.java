@@ -1,4 +1,4 @@
-package jubaw.creationalDP.structuralDP.decoratorDP;
+package jubaw.structuralDP.decoratorDP;
 
 public class Iphone implements Phone{ //primitive iphone
     @Override
